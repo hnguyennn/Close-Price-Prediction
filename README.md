@@ -6,8 +6,8 @@ and categorical predictors. The goal was to preprocess messy data with mixed dat
 to train a Random Forest model.
 
 The project was originally created as part of a group internship project initiated by Yuxin Liu. 
-The project was forked from https://github.com/317378769/CA-house-price.
-Current version reflects my own preprocessing, modeling, and evaluation work, with notebooks renamed for clarity and organization.
+The original repository was private.
+Current version reflects my own preprocessing, modeling, and evaluation work, with notebooks renamed for clarity and organization. All datasets were also removed to respect privacy laws.
 
 ## Objectives
 - Preprocessed and cleaned a 500k+ row dataset with mixed feature types
